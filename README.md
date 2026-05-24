@@ -1,4 +1,4 @@
-####Syed Abdullah Ayaz Portfolio
+#Syed Abdullah Ayaz Portfolio
 # Hi there, I'm Syed Abdullah Ayaz 👋 
 ### MERN Stack & Next.js Developer | MSCS Candidate at FAST-NUCES
 
